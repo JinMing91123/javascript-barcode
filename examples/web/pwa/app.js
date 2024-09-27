@@ -13,7 +13,7 @@ dynamsoft.dbrEnv.onAutoLoadWasmError = function (status) {
     document.getElementById('anim-loading').style.display = 'none';
 };
 // https://www.dynamsoft.com/CustomerPortal/Portal/TrialLicense.aspx
-dynamsoft.dbrEnv.licenseKey = 't0126lQMAAFu0xQ4pn8iaZNP681k1xjPzGp2AiV9/w8oV1Tz37Ap7x22090Hz5b/ehS6ieLrjJrI9ZYM7zqg9/h3gtbB3IV3eWbprPsQwh2EOwxyGOQwzDTMNMw0zDTMNswyzDLMMswxzvmv+RG42GuVNQdbwrf5No3odLCcVObF6';
+dynamsoft.dbrEnv.licenseKey = '	t0126lQMAAEhm3sU6PYGfNgmknbt+LpU7f5HjX9RLcBGl6W6E7kgM57JEVGCGNSBd281254i+aap1mPW7jdW4QglV0Zqv/A+uLN1lMMFsgtkEswlmE8wUzBTMFMwUzBTMIZhDMIdgDsGc75o/kZuFJvKmImv4Vv+mNbK7+wUn07GA';
 function browserRedirect() {
 	var deviceType;
 	var sUserAgent = navigator.userAgent.toLowerCase();
